@@ -133,7 +133,7 @@ link: https://instagram.com/_arpita_meena_?igshid=MzNINGNkZWQ4Mg==
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: YOUR-YOUTUBE_HANDLE
+link: 
 image: $assets.files.images.youtube.png
 
 -- social.social-button-wrapper:
