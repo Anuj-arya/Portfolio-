@@ -21,15 +21,15 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /Portfolio
+logoURL: /Portfolio-Fastn
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /Portfolio
-header-item2-link: /Portfolio/about
-header-item3-link: /Portfolio/blogs
-header-item4-link: /Portfolio/projects
+header-item1-link: /Portfolio-Fastn
+header-item2-link: /Portfolio-Fastn/about
+header-item3-link: /Portfolio-Fastn/blogs
+header-item4-link: /Portfolio-Fastn/projects
 cta-item2: Schedule a Meeting
 cta-item2-link: https://twitter.com/bhaktkage
 
@@ -44,8 +44,8 @@ cta-item2-link: https://twitter.com/bhaktkage
 ;; -----------------------------------------------------
 
 -- toast.stack: 
-title: Hello, I'm aspiring software developer based in India
-link: https://github.com/Anuj-arya
+title: Hello, I'm machine learning  developer based in India
+link: https://github.com/VinitGurjar
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -71,7 +71,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Anuj Arya,
+secondTitle: Vinit Gurjar,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -95,11 +95,11 @@ spacing.fixed.px: 10
 
 -- button.secondary: 
 title: Hire me
-link: mailto:arya4365@gmail.com
+link: mailto:YOUR_EMAIL_ADDRESS
 
 -- button.primary: 
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: vinitgurjar352@gmail.com  
 isNewTab: true
 
 -- end: ftd.row
@@ -117,27 +117,27 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://www.linkedin.com/in/anuj-arya-2772aa21b/
+link: https://www.linkedin.com/in/vinit-gurjar-48280921a/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://www,twitter.com/in/bhaktkage/
+link: https://twitter.com/bhaktkage
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/Anuj-arya
+link: https://github.com/VinitGurjar
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/_arpita_meena_?igshid=MzNINGNkZWQ4Mg==
+link: YOUR_INSTAGRAM_HANLDE
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: 
+link: YOUR-YOUTUBE_HANDLE
 image: $assets.files.images.youtube.png
 
 -- social.social-button-wrapper:
-link: mailto:arya4365@gmai.com
+link: mailto:YOUR_EMAIL_ADDRESS
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
